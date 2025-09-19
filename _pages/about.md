@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hey, I'm Laura!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I’m a PhD student in mathematical statistics at Humboldt-Universität zu Berlin, supervised by [Markus Reiß](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss) and funded by Project 2 of the [DFG research unit FOR 5381](https://for5381.uni-freiburg.de/en/research-unit-5381/) -- Mathematical Statistics in the Information Age. 
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+My research focuses on iterative algorithms, particularly (conjugate) gradient methods for statistical inverse problems, with an emphasis on early stopping to achieve both statistical accuracy and computational efficiency. I’m also interested in the spectral properties of high-dimensional random matrices, a passion that began with my Master’s thesis under the supervision of [Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776) and continued in my work on principal component regression.
+
+I enjoy connecting mathematical theory with practical statistical applications, exploring how theoretical insights can improve real-world algorithms.
+Feel free to [contact me](mailto:huckerla@math.hu-berlin.de) to discuss research ideas, collaborations, or questions about early stopping, iterative methods or spectral analysis.

@@ -1,0 +1,19 @@
+current directory: /Users/laurahucker/Documents/Website/huckerla.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/laurahucker/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/laurahucker/Documents/Website/huckerla.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250914-3881-pfs9i1 sitelibdir\=./.gem.20250914-3881-pfs9i1 clean
+
+current directory: /Users/laurahucker/Documents/Website/huckerla.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250914-3881-pfs9i1 sitelibdir\=./.gem.20250914-3881-pfs9i1
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/laurahucker/Documents/Website/huckerla.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250914-3881-pfs9i1 sitelibdir\=./.gem.20250914-3881-pfs9i1 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250914-3881-pfs9i1/racc
+
+current directory: /Users/laurahucker/Documents/Website/huckerla.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250914-3881-pfs9i1 sitelibdir\=./.gem.20250914-3881-pfs9i1 clean
