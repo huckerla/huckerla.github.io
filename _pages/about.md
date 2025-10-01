@@ -14,3 +14,9 @@ My research focuses on iterative algorithms, particularly (conjugate) gradient m
 
 I enjoy connecting mathematical theory with practical statistical applications, exploring how theoretical insights can improve real-world algorithms.
 Feel free to [contact me](mailto:huckerla@math.hu-berlin.de) to discuss research ideas, collaborations, or questions about early stopping, iterative methods or spectral analysis.
+
+<div style="text-align: center;">
+  <a href="https://xkcd.com/552">
+    <img src="https://imgs.xkcd.com/comics/correlation.png" alt="Sorry, you should see a comic here :(" width="450" style="margin-top: 20px;">
+  </a>
+</div>
