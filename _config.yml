@@ -91,9 +91,9 @@ author:
   employer         : "Humboldt-Universität zu Berlin"
   pubmed           :
   orcid            : "http://orcid.org/0009-0003-3293-5281"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.de/citations?user=4evZmmcAAAAJ&hl=de"
   email            : "huckerla@math.hu-berlin.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Laura-Hucker"
   uri              :
   bitbucket        :
   codepen          :
