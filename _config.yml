@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Laura Hucker"
 title_separator          : "-"
 name                     : &name "Laura Hucker"
-description              : &description "PhD student in mathematical statistics"
+description              : &description "PhD Student in Mathematical Statistics"
 url                      : https://huckerla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huckerla/huckerla.github.io"
@@ -86,14 +86,14 @@ analytics:
 author:
   name             : "Laura Hucker"
   avatar           : "profile.png"
-  bio              : "PhD student in mathematical statistics"
+  bio              : "PhD Student in Mathematical Statistics"
   location         : 
   employer         : "Humboldt-Universität zu Berlin"
   pubmed           :
   orcid            : "http://orcid.org/0009-0003-3293-5281"
   googlescholar    : "https://scholar.google.de/citations?user=4evZmmcAAAAJ&hl=de"
   email            : "huckerla@math.hu-berlin.de"
-  researchgate     : "https://www.researchgate.net/profile/Laura-Hucker"
+  researchgate     : # "https://www.researchgate.net/profile/Laura-Hucker"
   uri              :
   bitbucket        :
   codepen          :
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "huckerla"
   mastodon         : 
   pinterest        :
   soundcloud       :
