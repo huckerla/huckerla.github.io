@@ -22,7 +22,7 @@ Rudower Chaussee 25<br>
 huckerla (at) math.hu-berlin.de
 
 <b>Website</b><br>
-[https://huckerla.github.io](https://huckerla.github.io)
+[https://www.laura-hucker.de](https://www.laura-hucker.de)
  
 <b>Phone</b><br>
 +49-(0)30-2093-45456
