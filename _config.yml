@@ -88,7 +88,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Mathematical Statistics"
   location         : 
-  employer         : "Humboldt-Universität zu Berlin"
+  employer: "Humboldt-Universität<br><span class='employer-line2'>zu Berlin</span>"
   pubmed           :
   orcid            : "http://orcid.org/0009-0003-3293-5281"
   googlescholar    : "https://scholar.google.de/citations?user=4evZmmcAAAAJ&hl=de"
