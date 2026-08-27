@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "News Archive"
 layout: single
-permalink: /news/
+permalink: /news-archive/
 author_profile: true
 ---
 
@@ -46,7 +46,7 @@ author_profile: true
   {% for item in news_items %}
     {% assign item_timestamp = item.date | date: "%s" | plus: 0 %}
 
-    {% if item_timestamp >= four_months_ago %}
+    {% if item_timestamp < four_months_ago %}
       <div class="news-row{% if item.image %} has-image{% endif %}">
 
         <div class="news-date-box">
@@ -76,10 +76,10 @@ author_profile: true
 
 <div class="news-row">
   <div class="news-date-box">
-    <i class="fas fa-archive"></i>
+    <i class="fas fa-newspaper"></i>
   </div>
 
   <div class="news-text">
-    <a href="{{ '/news-archive/' | relative_url }}">Older news</a>
+    <a href="{{ '/news/' | relative_url }}">Recent news</a>
   </div>
 </div>
