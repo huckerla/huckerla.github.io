@@ -19,7 +19,7 @@ Rudower Chaussee 25<br>
 12489 Berlin (Adlershof)
 
 <b>Email</b><br>
-huckerla (at) math.hu-berlin.de
+huckerla (at) math.hu-berlin.de<br>
 laura.hucker (at) uni-potsdam.de
 
 <b>Website</b><br>
