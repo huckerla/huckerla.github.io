@@ -5,13 +5,13 @@ title: "Contact"
 
 <b>Name and position</b><br>
 <i>Laura Hucker</i><br>
-<i>Research assistant in mathematical statistics</i>
+<i>PhD student in mathematical statistics</i>
 
 <b>Postal address</b><br>
 Humboldt-Universität zu Berlin<br>
 Institut für Mathematik<br>
 Unter den Linden 6<br>
-D-10099 Berlin
+10099 Berlin
  
 <b>Office</b><br>
 Room 1.210<br>
@@ -20,6 +20,7 @@ Rudower Chaussee 25<br>
 
 <b>Email</b><br>
 huckerla (at) math.hu-berlin.de
+laura.hucker (at) uni-potsdam.de
 
 <b>Website</b><br>
 [https://laura-hucker.de](https://laura-hucker.de)
