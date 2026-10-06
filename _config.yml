@@ -88,11 +88,13 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Student in Mathematical Statistics"
   location         : 
-  employer: "Humboldt-Universität<br><span class='employer-line2'>zu Berlin</span>"
+  Use:
+  employer         : "Humboldt-Universität<br><span class='employer-line2'>zu Berlin &</span><br><span class='employer-line3'>Universität Potsdam</span>"
   pubmed           :
   orcid            : "http://orcid.org/0009-0003-3293-5281"
   googlescholar    : "https://scholar.google.de/citations?user=4evZmmcAAAAJ&hl=de"
   email            : "huckerla@math.hu-berlin.de"
+  email2           : "laura.hucker@uni-potsdam.de"
   researchgate     : # "https://www.researchgate.net/profile/Laura-Hucker"
   uri              :
   bitbucket        :

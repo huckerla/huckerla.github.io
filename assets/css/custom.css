@@ -63,7 +63,8 @@
 
 /* ===== FORMATTING SIDEBAR ===== */
 
-.employer-line2 {
+.employer-line2,
+.employer-line3 {
     display: inline-block;
     margin-left: 1.5em;
 }
