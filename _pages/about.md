@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in mathematical statistics at Humboldt-Universität zu Berlin, supervised by [Markus Reiß](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss) and funded by Project 2 of the [DFG research unit FOR 5381](https://for5381.uni-freiburg.de/en/research-unit-5381/) -- Mathematical Statistics in the Information Age. 
+I’m a PhD student in mathematical statistics at Humboldt-Universität zu Berlin, supervised by [Markus Reiß](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/mreiss), and a research assistant in the group of [Alexandra Carpentier](https://sites.google.com/site/alexandracarpentierresearch/home) at Universität Potsdam, funded by the collaborative research centre [SFB 1294](https://www.sfb1294.de) on *Data Assimilation*. Previously, I was a member of Project 2 of the DFG research unit [FOR 5381](https://for5381.uni-freiburg.de/en/research-unit-5381/), *Mathematical Statistics in the Information Age*. 
 
 My research focuses on iterative algorithms, particularly (conjugate) gradient methods for statistical inverse problems, with an emphasis on early stopping to achieve both statistical accuracy and computational efficiency. I’m also interested in the spectral properties of high-dimensional random matrices, a passion that began with my Master’s thesis under the supervision of [Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776) and continued in my work on principal component regression.
 
