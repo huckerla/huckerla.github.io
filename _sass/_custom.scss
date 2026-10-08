@@ -6,9 +6,9 @@
    Visibility
    ========================================================================== */
 
-.zoom{
+.zoom {
   /* default button */
-  
+
   &:hover {
     transform: scale(1.25);
   }
@@ -37,4 +37,10 @@
 /* When you mouse over the container, fade in the overlay */
 .container:hover .overlay {
   opacity: 0.25;
+}
+
+/* News: make date and text the same size */
+.news-date-box,
+.news-text {
+  font-size: inherit;
 }
