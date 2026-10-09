@@ -85,3 +85,25 @@ author_profile: true
     <a href="{{ '/news-archive/' | relative_url }}">Older news</a>
   </div>
 </div>
+
+<script>
+(function () {
+  function checkMainVisibility() {
+    window.setTimeout(function () {
+      var main = document.getElementById("main");
+
+      if (!main) return;
+
+      var opacity = parseFloat(
+        window.getComputedStyle(main).opacity
+      );
+
+      // Only intervene if the main content is still invisible.
+      if (opacity < 0.05) {
+        main.style.setProperty("animation", "none", "important");
+        main.style.setProperty("opacity", "1", "important");
+      }
+    }, 3000);
+  }
+
+  checkMainVisibility();
